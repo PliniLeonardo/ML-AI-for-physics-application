@@ -1,4 +1,4 @@
-This repository has all the papers I want to read 
+This repository has all the papers I want to read for particle tracking 
 
 # 2018 
 - [Novel deep learning methods for track reconstruction](https://arxiv.org/pdf/1810.06111)
